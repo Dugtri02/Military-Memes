@@ -8,6 +8,6 @@ Welcome to [@Military Memes](https://discord.com/oauth2/authorize?client_id=1148
 
 ### Terms of Service and Privacy Policy
 
-To ensure transparency and clarify the terms of usage and privacy practices, please review our [Terms of Service](https://dugtri02.github.io/MMTermsOfService) and [Privacy Policy](https://dugtri02.github.io/MMPrivacyPolicy). We prioritize your privacy and aim to provide an enjoyable experience with our bot.
+To ensure transparency and clarify the terms of usage and privacy practices, please review our [Terms of Service](https://dugtri02.github.io/Military-Memes/TermsOfService) and [Privacy Policy](https://dugtri02.github.io/Military-Memes/PrivacyPolicy). We prioritize your privacy and aim to provide an enjoyable experience with our bot.
 
 Feel free to add [@Military Memes](https://discord.com/oauth2/authorize?client_id=1148750724264624158&permissions=412384283712&scope=bot) to your server and enjoy a collection of entertaining memes!
